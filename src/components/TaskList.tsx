@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, type ChangeEventHandler } from "react";
+import { useEffect, useRef, useState } from "react";
 import { FaPlus, FaEllipsis } from "react-icons/fa6";
 import {
   RiDeleteBin6Line,
