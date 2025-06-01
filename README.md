@@ -13,8 +13,6 @@ functional To-Do List application built with React.
 
 ## Installation
 
-## Installation
-
 git clone https://github.com/Atharv-Shandilya/Celebal-Assignment-2.git
 cd react-todo-app
 npm install
