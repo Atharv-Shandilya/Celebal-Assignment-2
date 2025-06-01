@@ -1,7 +1,7 @@
 # Celebal-Assignment-2
 
-functional To-Do List application built with React.
-[Live Link](https://celebal-assignment-2.netlify.app/)
+functional To-Do List application built with React. 
+ [Live Link](https://celebal-assignment-2.netlify.app/)
 
 ## Features
 
@@ -14,10 +14,10 @@ functional To-Do List application built with React.
 
 ## Installation
 
-git clone https://github.com/Atharv-Shandilya/Celebal-Assignment-2.git
-cd react-todo-app
-npm install
-npm start
+1. git clone https://github.com/Atharv-Shandilya/Celebal-Assignment-2.git
+2. cd react-todo-app
+3. npm install
+4. npm start
 
 ## Usage
 
