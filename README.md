@@ -1,6 +1,7 @@
 # Celebal-Assignment-2
 
 functional To-Do List application built with React.
+[Live Link](https://celebal-assignment-2.netlify.app/)
 
 ## Features
 
